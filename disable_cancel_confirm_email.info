@@ -1,0 +1,7 @@
+name = Disable Cancel Confirm E-mail
+description = Stop drupal from requiring email confirmation to disable accounts
+
+package = User interface
+core = 7.x
+
+version = "7.x-1.x-dev"
